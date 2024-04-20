@@ -8,7 +8,7 @@ print(api_key)
 print(base_url)
 
 # note this is an old pay hash
-url = f"https://{base_url}/api/v1/payments/d810916c125b1eb8b25c9133e2d32c5997ce3094e9f4216982180e02f58e06e2" 
+url = f"https://{base_url}/api/v1/payments/d1af8ad2b0d8cfa068a66ab3f16215617eaedfda367c30fdd005efaf422ea10a" 
 
 headers = {
 "X-Api-Key": api_key,
